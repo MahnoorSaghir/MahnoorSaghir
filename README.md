@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mahnoor Saghir! 👋
 
 - 🔭 I’m currently working on my projects.
 - 🌱 I’m currently learning more about Web Development and Machine Learning.
